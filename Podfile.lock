@@ -1,0 +1,17 @@
+PODS:
+  - GoogleMaps (1.10.1)
+  - Keys (1.0.0)
+
+DEPENDENCIES:
+  - GoogleMaps
+  - Keys (from `Pods/CocoaPodsKeys`)
+
+EXTERNAL SOURCES:
+  Keys:
+    :path: Pods/CocoaPodsKeys
+
+SPEC CHECKSUMS:
+  GoogleMaps: ebf08677f181d9c2dcdbd1721d206f02beccc9b1
+  Keys: 7d2ff6ff42f6903358267ce56e9392f83c31acfe
+
+COCOAPODS: 0.37.2
